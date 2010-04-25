@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.kevinwhinnery.rss</id>
+<name>RSS</name>
+<version>1.0</version>
+<publisher>kevin</publisher>
+<url>appc.com</url>
+<description>No description provided</description>
+<copyright>2010 by kevin</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <analytics>true</analytics>
+<guid>5b092101-2e65-4b89-b230-78b7f8e4d670</guid>
+</ti:app>
